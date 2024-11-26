@@ -2,7 +2,9 @@
 
 ## Acerca de mí
 
-Profesional con MBA y certificación en Análisis de Datos, apasionado por transformar datos en información accionable. Me especializo en toma de decisiones basada en datos, creación de dashboards y gestión de bases de datos utilizando Python, SQL y Tableau. Con experiencia en alinear estrategias de datos con objetivos empresariales, he impulsado mejoras medibles en el rendimiento, contribuyendo al crecimiento del negocio y a la eficiencia operativa.
+Profesional titulado en ingeniería de software con una reciente transición al campo del aseguramiento de calidad (QA). He adquirido competencias en análisis de requisitos, diseño y ejecución de pruebas, seguimiento de errores, pruebas de aplicaciones web y móviles.
+
+Además, tengo conocimientos en SQL, Python, Selenium, Jira, Postman. Estas competencias me permiten realizar pruebas manuales, automatizadas y de API de manera eficiente, enfocado en crear y mantener casos de prueba detallados y alineados con las necesidades del usuario y del negocio.
 
 
 ---
