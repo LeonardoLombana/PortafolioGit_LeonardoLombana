@@ -43,8 +43,11 @@ Basé mi proyecto en realizar pruebas manuales iniciando en el campo "Desde" y "
 
 A continuación, presento detalles de los casos de prueba 
 
-   ![Lista Casos de prueba](https://github.com/user-attachments/assets/bd7df0c4-88e4-4fdf-8f60-17ee287fa48b)
-   
+   ![Lista Casos de prueba]()
+   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <img src=".//assets/img/pruebasRegresion.png"/>  
+   </div>
+
    Esta visualización muestra cómo se crearon y los pasos a seguir para efectar los distintos casos de prueba, se les da una valoración de aprobado, no aprobado u omitido
 
    ![Informe de errores de la aplicación](https://github.com/LeonardoLombana/Pruebas-de-regresion-Urban-Routers/blob/main/informeErrores_regresion_UrbanRoutes.pdf)
