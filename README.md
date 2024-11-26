@@ -43,7 +43,7 @@ Basé mi proyecto en realizar pruebas manuales iniciando en el campo "Desde" y "
 
 A continuación, presento detalles de los casos de prueba 
 
-   ![Lista Casos de prueba](https://github.com/LeonardoLombana/Pruebas-de-regresion-Urban-Routers/blob/main/cp_regresion_UrbanRoutes.pdf)
+   ![Lista Casos de prueba](https://github.com/LeonardoLombana/PortafolioQa/blob/main/assets/img/pruebasRegresion.png)
 
    Esta visualización muestra cómo se crearon y los pasos a seguir para efectar los distintos casos de prueba, se les da una valoración de aprobado, no aprobado u omitido
 
