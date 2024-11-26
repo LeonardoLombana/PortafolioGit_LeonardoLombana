@@ -43,14 +43,17 @@ Basé mi proyecto en realizar pruebas manuales iniciando en el campo "Desde" y "
 
 A continuación, presento detalles de los casos de prueba 
 
-   ![Lista Casos de prueba]()
+   *Lista Casos de prueba*
    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <img src=".//assets/img/pruebasRegresion.png"/>  
    </div>
 
    Esta visualización muestra cómo se crearon y los pasos a seguir para efectar los distintos casos de prueba, se les da una valoración de aprobado, no aprobado u omitido
 
-   ![Informe de errores de la aplicación](https://github.com/LeonardoLombana/Pruebas-de-regresion-Urban-Routers/blob/main/informeErrores_regresion_UrbanRoutes.pdf)
+   *Informe de errores de la aplicación*
+   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <img src="./assets/img/informeErrores.png"/>  
+   </div>
 
    Este gráfico de líneas muestra cómo las ventas de las principales plataformas de videojuegos han variado a lo largo del tiempo, permitiendo identificar las plataformas con mayor éxito en diferentes años.
  
