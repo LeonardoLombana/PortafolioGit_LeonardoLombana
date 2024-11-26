@@ -55,7 +55,7 @@ A continuación, presento detalles de los casos de prueba
   <img src="./assets/img/informeErrores.png"/>  
    </div>
 
-   Este gráfico de líneas muestra cómo las ventas de las principales plataformas de videojuegos han variado a lo largo del tiempo, permitiendo identificar las plataformas con mayor éxito en diferentes años.
+   Este gráfico pertenece al informe de errores que se presentaron durante las pruebas de comportamiento de la aplicación.
  
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/LeonardoLombana/Pruebas-de-regresion-Urban-Routers).**
 
@@ -98,6 +98,6 @@ A continuación, puedes ver uno de los dashboards que he desarrollado:
 
 ---
 
-- **Envíame un correo:** [lofernandez91@gmail.com](mailto:lofernandez91@gmail.com)
-- **Contáctame en LinkedIn:** [linkedin.com/in/lorenzofdz](https://www.linkedin.com/in/lorenzofdz)
-- **Explora mis proyectos en GitHub:** [github.com/lorenzofdz](https://github.com/lorenzofdz)
+- **Envíame un correo:** [leoanrdo.lc02@hotmail.com](mailto:leonardo.lc02@hotmail.com)
+- **Contáctame en LinkedIn:** [linkedin.com/in/leonardo-lombana-contento](https://www.linkedin.com/in/leonardo-lombana-contento/)
+- **Explora mis proyectos en GitHub:** [github.com/LeonardoLombana](https://github.com/LeonardoLombana)
