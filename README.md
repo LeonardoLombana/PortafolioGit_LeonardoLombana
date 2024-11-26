@@ -33,9 +33,9 @@ Basé mi proyecto en realizar pruebas manuales iniciando en el campo "Desde" y "
 
 **Lenguajes y herramientas principales**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Manual test-4A4A4A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-5A5A5A?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regression test-4A4A4A?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual test-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web Testing-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression Test-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Funtional Test-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </div>
 
