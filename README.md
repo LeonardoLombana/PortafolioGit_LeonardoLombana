@@ -12,49 +12,46 @@ Además, tengo conocimientos en SQL, Python, Selenium, Jira, Postman. Estas comp
 
 ## Proyectos
 
-### Análisis del Mercado de Videojuegos
+### Pruebas de regresión Urban Routers
 
 **Descripción del Proyecto**  
-En este proyecto me enfoqué en el análisis del mercado de videojuegos con el objetivo de identificar patrones que determinan el éxito de los juegos en diferentes regiones y plataformas. A través del estudio de las preferencias de los usuarios, las ventas por región y el impacto de las clasificaciones ESRB, busqué proporcionar insights valiosos para desarrolladores y editores en la industria.
+En este proyecto, se realizaron pruebas de regresión de una aplicación de transporte llamada Urban Routes, Urban Routes es una aplicación que crea rutas y calcula la duración y precio del viaje para diferentes tipos de transporte.
 
 **Objetivos**  
-- Identifiqué las plataformas y géneros más populares en Norteamérica, Europa y Japón.
-- Evalué el impacto de las calificaciones de usuarios y críticos en la percepción y el éxito comercial de los juegos.
-- Analicé la influencia de las clasificaciones ESRB en las ventas de juegos en distintas regiones.
+- Evalué los requerimientos de la aplicación según la documentación entregada.
+- Cree casos de prueba basado en el requisitos analizados basado en la funcion de solicitar un vehiculo entre un punto A y un punto B.
+- Ejecute los casos de prueba definiendo un estado de aprobado, no aprobado u omitido.
+- Genere los informes en jira en caso de que no se aprobara un caso de prueba.
 
 **Metodología**  
-Basé mi proyecto en el análisis de un extenso conjunto de datos de videojuegos, que incluye información sobre ventas, calificaciones de usuarios y críticos, géneros, plataformas y clasificaciones ESRB. Utilicé técnicas estadísticas para probar hipótesis sobre las preferencias de los usuarios y el impacto de diferentes factores en las ventas de juegos.
+Basé mi proyecto en realizar pruebas manuales iniciando en el campo "Desde" y "Hasta" aplicando listas de comprobación que me permitieron comprobar que los campos permitian el ingreso de datos correctos, tambien que no se pudiera agregar caracteres adicionales o que no correspondieran a las especificaciones de los requerimientos.
 
 **Conclusiones**  
-- Encontré diferencias significativas en las preferencias de juegos entre las regiones analizadas, lo que subraya la importancia de adaptar los juegos a mercados específicos.
-- Observé que la plataforma de juego influye en la calificación promedio que los usuarios dan a los juegos, mientras que no se evidenció una diferencia significativa en las calificaciones entre los géneros de Acción y Deportes.
-- Descubrí que los juegos clasificados como "E" (para todos los públicos) son los más exitosos en términos de ventas en todas las regiones, destacando la importancia de la accesibilidad del contenido.
+- Encontré que el aplicativo aún presenta fallos en algunos de los componentes principales como por ejemplo hacer zoom, hacer clic en los encabezados, no se señala correctamente luego de colocar las coordenadas de direccion ya sea desde o hasta, todo segun lo reportado en los informe de errores.
+- Observé que la plataforma apesar de los fallos de funcionamiento basico logra tener buena funcionalidad al cambio de diseño de mapa terrestre y formato 3d.
+- Siendo una aplicación de primera fase o primera entrega es muy amigable e intuitiva con el usuario, con potencial a futuro.
 
 **Lenguajes y herramientas principales**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Python-4A4A4A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-5A5A5A?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-4A4A4A?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual test-4A4A4A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-5A5A5A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression test-4A4A4A?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Funtional Test-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </div>
 
 **Visualizaciones**
 
-A continuación, presento algunas de las visualizaciones generadas durante el análisis del mercado de videojuegos:
+A continuación, presento detalles de los casos de prueba 
 
-   ![Distribución de Ventas Globales por Género](https://github.com/user-attachments/assets/bd7df0c4-88e4-4fdf-8f60-17ee287fa48b)
+   ![Lista Casos de prueba](https://github.com/LeonardoLombana/Pruebas-de-regresion-Urban-Routers/blob/main/cp_regresion_UrbanRoutes.pdf)
 
-   Esta visualización muestra cómo se distribuyen las ventas globales de videojuegos según su género, destacando la popularidad del género de acción en comparación con otros.
+   Esta visualización muestra cómo se crearon y los pasos a seguir para efectar los distintos casos de prueba, se les da una valoración de aprobado, no aprobado u omitido
 
-   ![Distribución Anual de Ventas por Plataforma](https://github.com/user-attachments/assets/f35f4067-3c98-4104-a6b0-a78cb6e29d5c)
+   ![Informe de errores de la aplicación](https://github.com/LeonardoLombana/Pruebas-de-regresion-Urban-Routers/blob/main/informeErrores_regresion_UrbanRoutes.pdf)
 
    Este gráfico de líneas muestra cómo las ventas de las principales plataformas de videojuegos han variado a lo largo del tiempo, permitiendo identificar las plataformas con mayor éxito en diferentes años.
  
-   ![Comparación de Ventas de Tres Juegos en PS3, X360 y Wii](https://github.com/user-attachments/assets/72a2e2b2-006c-4577-99b3-b64a61f40d9d)
-
-   Aquí se compara el rendimiento en ventas de tres juegos específicos en tres plataformas diferentes, mostrando cómo un mismo juego puede tener un éxito variable dependiendo de la plataforma.
-
-**Explora más detalles del proyecto en el [repositorio completo](https://github.com/lorenzofdz/video-game-market-analysis).**
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/LeonardoLombana/Pruebas-de-regresion-Urban-Routers).**
 
 ---
 
