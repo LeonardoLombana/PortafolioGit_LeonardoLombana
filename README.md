@@ -61,40 +61,58 @@ A continuación, presento detalles de los casos de prueba
 
 ---
 
-### Construcción de Web App para Visualización de Datos
+### Diseño de casos de prueba
 
 **Descripción del Proyecto**  
-Desarrollé una aplicación web con Streamlit, diseñada para facilitar la visualización de datos de vehículos usados. La aplicación permite a los usuarios visualizar de manera interactiva distintos aspectos del conjunto de datos, proporcionando una representación gráfica sobre la distribución y las relaciones entre diferentes variables, como el precio, el odómetro y otras características relevantes de los vehículos.
+Para este proyecto, se elaboraron pruebas y documentación relacionada basándote en los requisitos para la función de compartir un automóvil de Urban Routes.
+El ejercicio es analizar y descomponer estos requisitos, dividir clases de equivalencia y diseñar casos de prueba. Se tuvo en cuenta la siguiente parametrización en el proyecto, descomponer y visualizar los requisitos con un mapa mental, un diagrama de flujo y una tabla, definir los objetos de prueba y diseñar las pruebas 
 
-**Funcionalidades**  
-- **Visualización de Histogramas:** Los usuarios pueden generar histogramas para explorar la distribución de valores de cualquier variable numérica del conjunto de datos, como el kilometraje (odómetro) de los vehículos. Esto es útil para entender mejor cómo se distribuyen ciertas características dentro del mercado de vehículos usados.
-- **Gráficos de Dispersión:** La aplicación también permite crear gráficos de dispersión, facilitando la exploración de las relaciones entre dos variables, como el precio y el odómetro. Esta funcionalidad es clave para identificar patrones o tendencias, como la depreciación del vehículo en relación con su kilometraje.
+**Objetivos**  
+- Evalué los requerimientos de la aplicación según la documentación entregada.
+- Diseñe un mapa mental descoponiendo la parte grafica y logica de la funcionalidad.
+- Defini las clases de equivalencia y los valores limites.
+- Diseñe un diagrama de flujo para calcular el precio y la duración de un servicio.
+- Cree casos de prueba basado en el requisitos analizados basado en la funcion de solicitar un vehiculo entre un punto A y un punto B.
+- Ejecute los casos de prueba definiendo un estado de aprobado, no aprobado u omitido.
+- Genere los informes en jira en caso de que no se aprobara un caso de prueba.
 
-**Cómo Utilizar**  
-Para utilizar la aplicación, simplemente seleccione la casilla de verificación correspondiente a la visualización que desea explorar. La aplicación generará automáticamente el gráfico seleccionado basándose en los datos actuales del conjunto de datos de vehículos usados.
+**Metodología**  
+Basé mi proyecto en el mapa mental que permitio descomponer los requerimientos en su parte mas pequeña para centrar las pruebas manuales segun las especificaciones de los requerimientos.
+
+**Conclusiones**  
+- Logre simplificar la cantidad de pruebas gracias a las clases de equivalencia.
+- Diseñar un mapa mental acorde a la aplicación y los requisitos permite tener un mejor y centralizado enfoque al crear los casos de prueba. 
+- Crear los casos de prueba se facilita al aplicar los metodos de diseño de diagramas o mapas, al descomponerlo de esta manera permite realizar pruebas mas exahustivas.
 
 **Lenguajes y herramientas principales**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Streamlit-4A4A4A?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-5A5A5A?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly_Express-6A6A6A?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual test-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web Testing-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression Test-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Funtional Test-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Equivalencia-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
+
 </div>
 
-**Liga de la Web App:** [Acceder a la aplicación](https://proyecto-sprint-4-vlkw.onrender.com/)
+**Visualizaciones**
 
-**Explora más detalles del proyecto en el [repositorio completo](https://github.com/lorenzofdz/used-car-data-visualization).**
+A continuación, presento detalles de los casos de prueba 
 
----
+   *Lista Casos de prueba*
+   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <img src=".//assets/img/pruebasRegresion.png"/>  
+   </div>
 
-### Tableau Dashboards
+   Esta visualización muestra cómo se crearon y los pasos a seguir para efectar los distintos casos de prueba, se les da una valoración de aprobado, no aprobado u omitido
 
-A continuación, puedes ver uno de los dashboards que he desarrollado:
-    
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://public.tableau.com/views/Dashboard_Analisis_Tendencias/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-    <img src="assets/img/tableaulogo.png" alt="Ver Dashboard en Tableau" style="width: 300px; height: auto;" />
-  </a>
-</div>
+   *Informe de errores de la aplicación*
+   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <img src="./assets/img/informeErrores.png"/>  
+   </div>
+
+   Este gráfico pertenece al informe de errores que se presentaron durante las pruebas de comportamiento de la aplicación.
+ 
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/LeonardoLombana/Diseno_de_pruebas).**
 
 ---
 
