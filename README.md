@@ -121,7 +121,7 @@ A continuación, presento detalles de los casos de prueba
 
   *Clases de equivalencia campos dirección* 
    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <img src="./assets/img//clasesEquivalencia_2P.png"/>  
+  <img src="./assets/img//clasesEquivalencia2_2P.png"/>  
    </div>
 
    Este gráfico pertenece a la tabla de clases de equivalencia en el componente de la ubicación de direcciones, permite agrupar los tipos de datos en pruebas simplificadas para no recurrir en redundancias o pruebas adicionales.
