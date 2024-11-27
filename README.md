@@ -98,19 +98,33 @@ Basé mi proyecto en el mapa mental que permitio descomponer los requerimientos 
 
 A continuación, presento detalles de los casos de prueba 
 
-   *Lista Casos de prueba*
+  *Mapa Mental - interfaz y logica*
    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <img src=".//assets/img/pruebasRegresion.png"/>  
+  <img src=".//assets/img/mapaMental_2P.png"/>  
+   </div>
+
+   Esta visualización muestra cómo se creo el mapa mental que permitio descomponer tanto la parte de interfaz grafica como logica facilitando subdividir las pruebas.
+
+  *Lista Casos de prueba*
+   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <img src=".//assets/img/casosdePrueba_2P.png"/>  
    </div>
 
    Esta visualización muestra cómo se crearon y los pasos a seguir para efectar los distintos casos de prueba, se les da una valoración de aprobado, no aprobado u omitido
 
-   *Informe de errores de la aplicación*
+  *Clases de equvalencia datos usuario*
    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <img src="./assets/img/informeErrores.png"/>  
+  <img src="./assets/img//clasesEquivalencia_2P.png"/>  
    </div>
 
-   Este gráfico pertenece al informe de errores que se presentaron durante las pruebas de comportamiento de la aplicación.
+   Este gráfico pertenece a la tabla de clases de equivalencia en el componente de datos de usuario, permite agrupar los tipos de datos en pruebas simplificadas para no recurrir en redundancias o pruebas adicionales.
+
+  *Clases de equivalencia campos dirección* 
+   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <img src="./assets/img//clasesEquivalencia_2P.png"/>  
+   </div>
+
+   Este gráfico pertenece a la tabla de clases de equivalencia en el componente de la ubicación de direcciones, permite agrupar los tipos de datos en pruebas simplificadas para no recurrir en redundancias o pruebas adicionales.
  
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/LeonardoLombana/Diseno_de_pruebas).**
 
